@@ -17,8 +17,7 @@ PROJECT INTRODUCTION
 👉This software helps the user to save time, save paper, and less the manpower required.
 
 Installation
-Just, Clone this repository -
-$ git clone https://github.com/Pulkit-Py/Restraunt_Billing
+
 Change to cloned directory and run Restraunt_Billing -
 $ cd Restraunt_Billing
 $ python billing.py
